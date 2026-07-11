@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kush-aman/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kush-aman/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kush-aman/DSA/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/kush-aman/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
