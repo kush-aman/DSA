@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kush-aman/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kush-aman/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kush-aman/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kush-aman/DSA/tree/master/0047-permutations-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/kush-aman/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/kush-aman/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kush-aman/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kush-aman/DSA/tree/master/0047-permutations-ii) |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/kush-aman/DSA/tree/master/0047-permutations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kush-aman/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kush-aman/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
