@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kush-aman/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kush-aman/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kush-aman/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/kush-aman/DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kush-aman/DSA/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kush-aman/DSA/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/kush-aman/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
