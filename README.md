@@ -96,8 +96,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/kush-aman/DSA/tree/master/0060-permutation-sequence) |
+| [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/kush-aman/DSA/tree/master/0060-permutation-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
