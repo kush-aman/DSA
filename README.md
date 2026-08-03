@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kush-aman/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kush-aman/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kush-aman/DSA/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-aman/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
@@ -147,10 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-aman/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-aman/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search Tree
 |  |
