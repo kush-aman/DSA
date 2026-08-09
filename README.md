@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kush-aman/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/kush-aman/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kush-aman/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kush-aman/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kush-aman/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kush-aman/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kush-aman/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kush-aman/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kush-aman/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kush-aman/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kush-aman/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/kush-aman/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kush-aman/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kush-aman/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/kush-aman/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kush-aman/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kush-aman/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kush-aman/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kush-aman/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kush-aman/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kush-aman/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kush-aman/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/kush-aman/DSA/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kush-aman/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kush-aman/DSA/tree/master/0145-binary-tree-postorder-traversal) |
