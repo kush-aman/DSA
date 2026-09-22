@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kush-aman/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/kush-aman/DSA/tree/master/1020-number-of-enclaves) |
+| [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/kush-aman/DSA/tree/master/0060-permutation-sequence) |
 | [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
+| [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Simulation
 |  |
