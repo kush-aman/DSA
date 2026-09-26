@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Topological Sort
 |  |
 | ------- |
