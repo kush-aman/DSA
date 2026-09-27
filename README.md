@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1528-shuffle-string](https://github.com/kush-aman/DSA/tree/master/1528-shuffle-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 ## Backtracking
 |  |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/kush-aman/DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1108-defanging-an-ip-address](https://github.com/kush-aman/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/kush-aman/DSA/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/kush-aman/DSA/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kush-aman/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/kush-aman/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Dynamic Programming
