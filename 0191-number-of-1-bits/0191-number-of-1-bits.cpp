@@ -1,16 +1,11 @@
 class Solution {
 public:
     int hammingWeight(int n) {
-        vector<int> bits;
-        while(n!=0){
-            int remainder = n % 2;
-            bits.push_back(remainder);
+        int cnt = 0;
+        while(n > 0){
+            if(n % 2 == 1) cnt++;
             n /= 2;
         }
-        int count = 0;
-        for(int i = 0;i < bits.size();i++){
-            if(bits[i] == 1) count++;
-        }
-        return count;
+        return cnt;
     }
 };
