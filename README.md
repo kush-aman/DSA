@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/kush-aman/DSA/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/kush-aman/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/kush-aman/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/kush-aman/DSA/tree/master/0338-counting-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/kush-aman/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kush-aman/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kush-aman/DSA/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/kush-aman/DSA/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
