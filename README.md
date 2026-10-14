@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kush-aman/DSA/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-aman/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/kush-aman/DSA/tree/master/0200-number-of-islands) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/kush-aman/DSA/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/kush-aman/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kush-aman/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kush-aman/DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/kush-aman/DSA/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/kush-aman/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/kush-aman/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kush-aman/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/kush-aman/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/kush-aman/DSA/tree/master/0060-permutation-sequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/kush-aman/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
