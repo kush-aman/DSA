@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kush-aman/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/kush-aman/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/kush-aman/DSA/tree/master/0496-next-greater-element-i) |
 | [0897-increasing-order-search-tree](https://github.com/kush-aman/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2000-reverse-prefix-of-word](https://github.com/kush-aman/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kush-aman/DSA/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-aman/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/kush-aman/DSA/tree/master/0200-number-of-islands) |
+| [0496-next-greater-element-i](https://github.com/kush-aman/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/kush-aman/DSA/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/kush-aman/DSA/tree/master/0905-sort-array-by-parity) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kush-aman/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/kush-aman/DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/kush-aman/DSA/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/kush-aman/DSA/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kush-aman/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kush-aman/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kush-aman/DSA/tree/master/0953-verifying-an-alien-dictionary) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kush-aman/DSA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
