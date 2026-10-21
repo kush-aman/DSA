@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kush-aman/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/kush-aman/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/kush-aman/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3136-valid-word](https://github.com/kush-aman/DSA/tree/master/3136-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
