@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kush-aman/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/kush-aman/DSA/tree/master/0733-flood-fill) |
+| [0812-largest-triangle-area](https://github.com/kush-aman/DSA/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/kush-aman/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kush-aman/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kush-aman/DSA/tree/master/0953-verifying-an-alien-dictionary) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/kush-aman/DSA/tree/master/0060-permutation-sequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/kush-aman/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/kush-aman/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/kush-aman/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/kush-aman/DSA/tree/master/0812-largest-triangle-area) |
 | [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Simulation
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/kush-aman/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/kush-aman/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
