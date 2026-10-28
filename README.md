@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/kush-aman/DSA/tree/master/1528-shuffle-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kush-aman/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
@@ -533,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kush-aman/DSA/tree/master/0207-course-schedule) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
