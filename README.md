@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kush-aman/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1903-largest-odd-number-in-string](https://github.com/kush-aman/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kush-aman/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kush-aman/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -540,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kush-aman/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
