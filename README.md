@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kush-aman/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kush-aman/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kush-aman/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kush-aman/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kush-aman/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/kush-aman/DSA/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kush-aman/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/kush-aman/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kush-aman/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kush-aman/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kush-aman/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Topological Sort
 |  |
 | ------- |
