@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/kush-aman/DSA/tree/master/1528-shuffle-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kush-aman/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kush-aman/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kush-aman/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kush-aman/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/kush-aman/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kush-aman/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/kush-aman/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/kush-aman/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3136-valid-word](https://github.com/kush-aman/DSA/tree/master/3136-valid-word) |
