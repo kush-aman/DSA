@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kush-aman/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kush-aman/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kush-aman/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kush-aman/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kush-aman/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kush-aman/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kush-aman/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kush-aman/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/kush-aman/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kush-aman/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2351-first-letter-to-appear-twice](https://github.com/kush-aman/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kush-aman/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kush-aman/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
