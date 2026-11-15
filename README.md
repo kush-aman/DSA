@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kush-aman/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kush-aman/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1518-water-bottles](https://github.com/kush-aman/DSA/tree/master/1518-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/kush-aman/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kush-aman/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kush-aman/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kush-aman/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/kush-aman/DSA/tree/master/1518-water-bottles) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kush-aman/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Topological Sort
