@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kush-aman/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/kush-aman/DSA/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/kush-aman/DSA/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/kush-aman/DSA/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/kush-aman/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
