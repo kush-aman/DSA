@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/kush-aman/DSA/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/kush-aman/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kush-aman/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/kush-aman/DSA/tree/master/0941-valid-mountain-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kush-aman/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/kush-aman/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/kush-aman/DSA/tree/master/0994-rotting-oranges) |
