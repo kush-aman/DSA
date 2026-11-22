@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/kush-aman/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/kush-aman/DSA/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/kush-aman/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/kush-aman/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/kush-aman/DSA/tree/master/1020-number-of-enclaves) |
 | [1037-valid-boomerang](https://github.com/kush-aman/DSA/tree/master/1037-valid-boomerang) |
 | [1089-duplicate-zeros](https://github.com/kush-aman/DSA/tree/master/1089-duplicate-zeros) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/kush-aman/DSA/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/kush-aman/DSA/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/kush-aman/DSA/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/kush-aman/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2351-first-letter-to-appear-twice](https://github.com/kush-aman/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
