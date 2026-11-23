@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kush-aman/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/kush-aman/DSA/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kush-aman/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/kush-aman/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kush-aman/DSA/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/kush-aman/DSA/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kush-aman/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kush-aman/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/kush-aman/DSA/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/kush-aman/DSA/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/kush-aman/DSA/tree/master/0338-counting-bits) |
 ## Math
 |  |
