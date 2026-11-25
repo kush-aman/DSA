@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kush-aman/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/kush-aman/DSA/tree/master/1528-shuffle-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kush-aman/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/kush-aman/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/kush-aman/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/kush-aman/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/kush-aman/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/kush-aman/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/kush-aman/DSA/tree/master/1254-number-of-closed-islands) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/kush-aman/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kush-aman/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kush-aman/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/kush-aman/DSA/tree/master/1518-water-bottles) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/kush-aman/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/kush-aman/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kush-aman/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Topological Sort
