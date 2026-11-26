@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kush-aman/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kush-aman/DSA/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/kush-aman/DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0657-robot-return-to-origin](https://github.com/kush-aman/DSA/tree/master/0657-robot-return-to-origin) |
 | [0953-verifying-an-alien-dictionary](https://github.com/kush-aman/DSA/tree/master/0953-verifying-an-alien-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/kush-aman/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/kush-aman/DSA/tree/master/1446-consecutive-characters) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/kush-aman/DSA/tree/master/0657-robot-return-to-origin) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/kush-aman/DSA/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/kush-aman/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/kush-aman/DSA/tree/master/1518-water-bottles) |
